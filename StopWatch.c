@@ -1,10 +1,10 @@
-/*
- * Mini_Project2.c
+/****************************************************
+ * StopWatch.c
  *
  *  Created on: Jan 13, 2022
  *      Author: Menna Saeed
  *      Diploma 62
- */
+ *****************************************************/
 
 
 #include <avr/io.h>
